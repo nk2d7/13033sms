@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "59478194947",
+    "project_id": "messagesdb-de65f",
+    "storage_bucket": "messagesdb-de65f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59478194947:android:7c24baa9845fe4f3fb8736",
+        "android_client_info": {
+          "package_name": "com.sms13033.sms13033"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59478194947-d2601lgamq9trp2mjc32327tu35cu2gk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOEtjRtinSod8m7wACVHfXrK4W6M30vpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59478194947-d2601lgamq9trp2mjc32327tu35cu2gk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
